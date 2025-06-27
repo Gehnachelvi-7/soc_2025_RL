@@ -16,7 +16,7 @@ In the first week, I revisited core Python concepts and learned the basics of 2D
 - Rendering graphics and detecting collisions
 - Managing game state and user input
 
-To apply these concepts, I developed a **Snake Game** from scratch. The full source code is available in the `Week1/` folder.
+To apply these concepts, I developed a **Snake Game** from scratch. The full source code is available in the [Week1](Week1/)  folder.
 
 ### Week 2: Neural Networks & MNIST Digit Classification
 Week 2 was focused on understanding the structure and training process of **Neural Networks**, particularly **Convolutional Neural Networks (CNNs)** used in image classification tasks.
@@ -26,7 +26,7 @@ Key topics covered:
 - Training and evaluation techniques
 - Transfer learning overview
 
-I trained a CNN model on the **MNIST dataset** using PyTorch, experimenting with various hyperparameters. All related code, performance graphs, and a short analysis report are provided in the `Week2/` folder.
+I trained a CNN model on the **MNIST dataset** using PyTorch, experimenting with various hyperparameters. All related code, performance graphs, and a short analysis report are provided in the [Week2](Week2/) folder.
 
 ### Week 3: Reinforcement Learning Fundamentals & Planning
 This week focused on core **Reinforcement Learning concepts**, laying a strong theoretical foundation. I explored:

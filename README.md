@@ -18,8 +18,6 @@ In the first week, I revisited core Python concepts and learned the basics of 2D
 
 To apply these concepts, I developed a **Snake Game** from scratch. The full source code is available in the `Week1/` folder.
 
----
-
 ### Week 2: Neural Networks & MNIST Digit Classification
 Week 2 was focused on understanding the structure and training process of **Neural Networks**, particularly **Convolutional Neural Networks (CNNs)** used in image classification tasks.
 
@@ -29,8 +27,6 @@ Key topics covered:
 - Transfer learning overview
 
 I trained a CNN model on the **MNIST dataset** using PyTorch, experimenting with various hyperparameters. All related code, performance graphs, and a short analysis report are provided in the `Week2/` folder.
-
----
 
 ### Week 3: Reinforcement Learning Fundamentals & Planning
 This week focused on core **Reinforcement Learning concepts**, laying a strong theoretical foundation. I explored:
@@ -45,8 +41,6 @@ I also studied **planning methods** like:
 
 Simple simulations were implemented to visualize the learning behavior of agents in deterministic environments. Code and notes are available in `Week3/`.
 
----
-
 ### Week 4: Q-Learning & Deep Q-Networks (DQN)
 In the fourth week, I transitioned to practical **model-free RL algorithms**. The focus was on:
 - **Q-Learning** in discrete environments
@@ -58,13 +52,8 @@ A custom Gridworld was used for initial Q-learning, followed by building a **Dee
 
 All code, training data, and visual results are available in `Week4/`.
 
----
-
 ## Folder Structure
 
 ├── Week1/ # Snake Game with Pygame
 ├── Week2/ # CNN on MNIST dataset
 └── README.md # Weekly progress report
-
-
-

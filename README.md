@@ -39,8 +39,6 @@ I also studied **planning methods** like:
 - **Policy Iteration**
 - Differences between **model-based** and **model-free** methods
 
-Simple simulations were implemented to visualize the learning behavior of agents in deterministic environments. Code and notes are available in `Week3/`.
-
 ### Week 4: Q-Learning & Deep Q-Networks (DQN)
 In the fourth week, I transitioned to practical **model-free RL algorithms**. The focus was on:
 - **Q-Learning** in discrete environments
@@ -49,5 +47,3 @@ In the fourth week, I transitioned to practical **model-free RL algorithms**. Th
 - Incorporating **Target Networks** to reduce Q-value oscillations
 
 A custom Gridworld was used for initial Q-learning, followed by building a **Deep Q-Network (DQN)** using PyTorch for function approximation. The agent was trained on various scenarios, and performance improvements were visualized through plots and logs.
-
-All code, training data, and visual results are available in `Week4/`.

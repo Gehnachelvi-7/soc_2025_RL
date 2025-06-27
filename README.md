@@ -51,9 +51,3 @@ In the fourth week, I transitioned to practical **model-free RL algorithms**. Th
 A custom Gridworld was used for initial Q-learning, followed by building a **Deep Q-Network (DQN)** using PyTorch for function approximation. The agent was trained on various scenarios, and performance improvements were visualized through plots and logs.
 
 All code, training data, and visual results are available in `Week4/`.
-
-## Folder Structure
-
-├── Week1/ # Snake Game with Pygame
-├── Week2/ # CNN on MNIST dataset
-└── README.md # Weekly progress report
